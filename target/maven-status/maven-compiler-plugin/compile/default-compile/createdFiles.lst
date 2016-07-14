@@ -1,0 +1,5 @@
+my/winapp/springbootelasticsearch/configuration/SpringDataBootConfiguration.class
+my/winapp/springbootelasticsearch/domain/Hashtag.class
+my/winapp/springbootelasticsearch/SpringBootElasticsearchApplication.class
+my/winapp/springbootelasticsearch/repositories/HashtagRepository.class
+my/winapp/springbootelasticsearch/services/HashtagService.class
